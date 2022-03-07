@@ -1,0 +1,5 @@
+{
+  "parser": "babel-eslint",
+  "plugins": ["testing-library"],
+  "extends": ["plugin:testing-library/react", "plugin:jest-dom/recommended"]
+}
